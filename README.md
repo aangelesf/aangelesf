@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Antonio
 
-<!--
-**aangelesf/aangelesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UIC with interests in systems-level
+programming, information technology, and hands-on technical projects.
+I enjoy working with lower-level concepts, hardware-focused systems,
+and solving practical computing problems.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Interests
+- Java, C++, SQL
+- Systems programming and low level concepts
+- Information technology and troubleshooting
+- Embedded systems and Arduino projects
+- Project-based learning and technical problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- Arduino Simon Says (Embedded Systems, I2C)
+- 3-Card Poker (JavaFX, client/server)
