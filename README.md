@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm Antonio
 
-I'm a Computer Science student at UIC with interests in systems-level
-programming, information technology, and hands-on technical projects.
-I enjoy working with lower-level concepts, hardware-focused systems,
-and solving practical computing problems.
+Hi, I'm Antonio — a Computer Science student with hands-on experience in IT support and a strong interest in systems, infrastructure, and low-level computing.
+I enjoy working on practical technical problems, including troubleshooting devices, building small-scale systems projects, and exploring how hardware and software interact.
 
 ### 🔧 Skills & Interests
 - Java, C++, SQL
